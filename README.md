@@ -25,3 +25,10 @@ Objectifs
 En groupe de 3-4, vous devrez créer une ébauche de spécifications fonctionnelles et techniques pour ce projet.
 Il faudra créer les différents diagramme UML (use case, activité, classes, séquence, état-transition), faire quelques maquettes fonctionnelles.
 Vous pourrez ensuite définir les sprints et les tâches (via gitlab) ainsi que définir le poids de celles ci via un planning poker.
+
+## Activite
+### Diag Activité : Deposer un projet
+![diagramme d'activité Dépot de Projet](DiagActiviteDepotProjet.PNG)
+
+
+
