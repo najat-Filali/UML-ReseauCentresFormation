@@ -41,7 +41,6 @@ Pour les autres diagrammes, nous avons choisi un use case chacun sur lequel nous
 ![DiagUseCases](UseCaseDiagram1.jpg)
 
 ### Use Case Ecrit : Déposer un projet
-![Exemple du use case écrit : Deposer un projet](UseCaseEcritDeposerProjet.JPG)
 ![Use case écrit](UseCaseEcritDeposerProjet.JPG)
 
 
