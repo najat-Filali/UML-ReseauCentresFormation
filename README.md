@@ -32,12 +32,16 @@ Vous pourrez ensuite définir les sprints et les tâches (via gitlab) ainsi que 
 
 # GROUPE : Bilane, Matthias, Nerses, Najat
 
+Nous avons d'abord commencé par travailler individuellement, puis avons échangé sur nos produistions respectives afin de créer un travail commun, notamment sur les use cases et diagramme de classes. 
+Pour les autres diagrammes, nous avons choisi un use case chacun sur lequel nous avons travaillé individuellement, puis soumis au groupe pour amélioration et commentaires. 
 
 ## Use Case
 
 ### Diagramme de Use Case
 ![DiagUseCases](UseCaseDiagram1.jpg)
-![Exemple du use case écrit : Deposer un projet](UseCaseEcritDeposerProjet.odt)
+
+### Use Case Ecrit : Déposer un projet
+![Exemple du use case écrit : Deposer un projet](UseCaseEcritDeposerProjet.JPG)
 
 
 ## Activité
