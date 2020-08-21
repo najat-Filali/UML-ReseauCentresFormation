@@ -37,12 +37,12 @@ Vous pourrez ensuite définir les sprints et les tâches (via gitlab) ainsi que 
 
 ### Diagramme de Use Case
 ![DiagUseCases](UseCaseDiagram1.jpg)
-[Exemple du use case écrit : Deposer un projet](C:\Users\filal\Desktop\simplon\project-uml\UseCaseEcritDeposerProjet.odt)
+[Exemple du use case écrit : Deposer un projet](UseCaseEcritDeposerProjet.odt)
 
 ## Activité
 
 ### Diagramme d'activité
-![Deposer un projet](DiagActiviteDepotProjet.PNG)
+![Deposer un projet](DiagActiviteDepotProjet.jpg)
 
 ## Classes
 
