@@ -1,3 +1,5 @@
+# Reseau Centres de Formation
+
 Contexte
 Un réseau de centre de formation (qu'on ne nommera pas) souhaite créer une plateforme unifié pour regrouper
 les différentes tâches courantes propres à chaque centre.
@@ -26,9 +28,39 @@ En groupe de 3-4, vous devrez créer une ébauche de spécifications fonctionnel
 Il faudra créer les différents diagramme UML (use case, activité, classes, séquence, état-transition), faire quelques maquettes fonctionnelles.
 Vous pourrez ensuite définir les sprints et les tâches (via gitlab) ainsi que définir le poids de celles ci via un planning poker.
 
-## Activite
-### Diag Activité : Deposer un projet
-![diagramme d'activité Dépot de Projet](DiagActiviteDepotProjet.PNG)
+
+
+
+
+
+## Use Case
+
+### Diagramme de Use Case
+![DiagUseCases](UseCaseDiagram1.jpg)
+[Exemple du use case écrit : Deposer un projet](C:\Users\filal\Desktop\simplon\project-uml\UseCaseEcritDeposerProjet.odt)
+
+## Activité
+
+### Diagramme d'activité
+![Deposer un projet](DiagActiviteDepotProjet.PNG)
+
+## Classes
+
+### Diagramme de classe initial
+![diagramme de classe](DiagClassesCentreFormation.jpg)
+
+### Diagramme de classe réalisé en groupe
+![diagramme de classe commun](DiagClassesCommun1.jpg)
+
+## Séquence
+
+### Diagramme de séquence 
+![diagramme de séquence : Créer une promotion](DiagSequenceCreerPromo1.jpg)
+
+
+
+
+
 
 
 
