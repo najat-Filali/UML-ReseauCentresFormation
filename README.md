@@ -30,19 +30,22 @@ Vous pourrez ensuite définir les sprints et les tâches (via gitlab) ainsi que 
 
 
 
-
+# GROUPE : Bilane, Matthias, Nerses, Najat
 
 
 ## Use Case
 
 ### Diagramme de Use Case
 ![DiagUseCases](UseCaseDiagram1.jpg)
-[Exemple du use case écrit : Deposer un projet](UseCaseEcritDeposerProjet.odt)
+![Exemple du use case écrit : Deposer un projet](UseCaseEcritDeposerProjet.odt)
+
 
 ## Activité
 
 ### Diagramme d'activité
+#### Déposer un projet 
 ![Deposer un projet](DiagActiviteDepotProjet.jpg)
+
 
 ## Classes
 
@@ -52,9 +55,11 @@ Vous pourrez ensuite définir les sprints et les tâches (via gitlab) ainsi que 
 ### Diagramme de classe réalisé en groupe
 ![diagramme de classe commun](DiagClassesCommun1.jpg)
 
+
 ## Séquence
 
 ### Diagramme de séquence 
+#### Créer une promotion
 ![diagramme de séquence : Créer une promotion](DiagSequenceCreerPromo1.jpg)
 
 
